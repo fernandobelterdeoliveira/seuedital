@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+<title id="title">SEUEDITAL — Licitação sem complicação</title><desc id="desc">Identidade em roxo e turquesa. Inteligência para transformar o planejamento das compras públicas.</desc>
+<defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern><linearGradient id="line"><stop stop-color="#00b5a6"/><stop offset="1" stop-color="#4a274f"/></linearGradient></defs>
+<rect width="1280" height="520" rx="24" fill="#4a274f"/><rect width="1280" height="520" rx="24" fill="url(#grid)"/>
+<circle cx="1160" cy="110" r="240" fill="none" stroke="#00b5a6" stroke-opacity=".14"/><circle cx="1160" cy="110" r="180" fill="none" stroke="#00b5a6" stroke-opacity=".14"/>
+<rect x="72" y="64" width="211" height="32" rx="16" fill="#ffffff" fill-opacity=".08"/><circle cx="89" cy="80" r="4" fill="#37dfc2"/><text x="103" y="85" fill="#fff" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">EM DESENVOLVIMENTO</text>
+<text x="68" y="218" font-family="Arial,sans-serif" font-size="96" letter-spacing="-6" fill="#fff">SEU<tspan fill="#00b5a6" font-weight="bold">EDITAL</tspan></text>
+<text x="74" y="269" fill="#fff" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">LICITAÇÃO SEM COMPLICAÇÃO</text>
+<path d="M74 310H616" stroke="url(#line)"/>
+<text x="74" y="358" fill="#e2d4e5" font-family="Arial,sans-serif" font-size="24">Menos retrabalho. Mais consistência.</text>
+<text x="74" y="395" fill="#e2d4e5" font-family="Arial,sans-serif" font-size="24">Melhores contratações públicas.</text>
+<text x="74" y="465" fill="#c5b2ca" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">PLANEJAR · ESTRUTURAR · VERIFICAR · EVOLUIR</text>
+<g transform="translate(920 200) rotate(8)"><rect width="210" height="250" rx="16" fill="#351c3a" stroke="#75567c"/><rect x="20" y="22" width="48" height="28" rx="7" fill="#00b5a6"/><text x="31" y="41" fill="#fff" font-size="15" font-family="Arial,sans-serif" font-weight="bold">ETP</text><path d="M24 80h150M24 102h125M24 124h150M24 146h100" stroke="#94749b" stroke-width="6" stroke-linecap="round"/><rect x="20" y="185" width="170" height="40" rx="8" fill="#00b5a6" fill-opacity=".15"/><text x="35" y="210" fill="#42e1cd" font-family="Arial,sans-serif" font-size="13">✓ Revisão orientada</text></g>
+</svg>

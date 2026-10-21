@@ -10,8 +10,6 @@
 
 </div>
 
-> **Explore a apresentação visual:** abra o arquivo [`index.html`](index.html) no navegador para acessar a experiência com HTML, CSS, animações e jornada interativa. A página funciona localmente, sem instalação.
-
 ---
 
 # SEUEDITAL
@@ -384,7 +382,9 @@ A equipe atua no desenvolvimento da proposta, na investigação do problema e na
 
 **Projeto em evolução para etapa de aceleração.**
 
-*Os integrantes, suas funções e os canais oficiais do projeto serão acrescentados conforme a composição e os dados institucionais confirmados.*
+![Equipe SEUEDITAL: Sofia, Lucas, Felipe e Fernando](assets/equipe.png)
+
+**Sofia · Lucas · Felipe · Fernando**
 
 ---
 
@@ -401,58 +401,3 @@ Não buscamos retirar o servidor do processo. Buscamos reduzir o esforço dedica
 ### SEUEDITAL
 
 **Porque uma contratação pública melhor começa muito antes da publicação do edital.**
-
----
-
-# 13 — Apresentação visual do projeto
-
-Este repositório inclui uma página de apresentação do SEUEDITAL, construída com HTML, CSS e JavaScript puros. O conteúdo acima é a documentação completa da proposta; a página organiza seus principais pontos em uma experiência visual.
-
-## Abrir a página
-
-1. Baixe ou extraia a pasta completa.
-2. Abra `index.html` em um navegador atualizado.
-3. Mantenha `styles.css`, `script.js` e a pasta `assets` junto do HTML.
-
-Não é necessário instalar dependências, executar um build ou configurar um servidor. A página não depende de fontes, imagens ou bibliotecas externas. Os links para as fontes oficiais precisam de conexão com a internet.
-
-## Arquivos
-
-| Arquivo | Finalidade |
-|---|---|
-| [`index.html`](index.html) | Apresentação do projeto com navegação por seções |
-| [`styles.css`](styles.css) | Identidade visual, layouts responsivos e animações |
-| [`script.js`](script.js) | Jornada interativa e revelação de elementos na rolagem |
-| [`assets/capa.svg`](assets/capa.svg) | Capa vetorial deste README |
-| [`assets/favicon.svg`](assets/favicon.svg) | Ícone da página |
-| [`README.md`](README.md) | Documentação completa da proposta e instruções de uso |
-
-## Identidade visual
-
-| Elemento | Definição |
-|---|---|
-| Roxo principal | `#4A274F` |
-| Turquesa principal | `#00B5A6` |
-| Roxo profundo | `#321B38` |
-| Menta para destaques | `#54E2CE` |
-| Fundo claro | `#FAF9F7` |
-| Tipografia | Segoe UI, Arial e fontes do sistema |
-| Assinatura | SEU em peso leve; EDITAL em destaque turquesa |
-
-A identidade aproveita a paleta, a composição tipográfica e o conceito de copiloto da apresentação de referência. O PDF não é incorporado, distribuído ou carregado pela página. A capa e a interface ilustrativa foram recriadas em SVG e HTML/CSS; não são capturas do produto.
-
-## Experiência e acessibilidade
-
-- Layout adaptado para celulares, tablets e computadores.
-- Animações suaves de entrada e detalhes de movimento em CSS.
-- Respeito à preferência de movimento reduzido do sistema.
-- Navegação por teclado, foco visível e link para pular ao conteúdo.
-- Jornada com abas acessíveis: use as setas para cima e para baixo, Home e End.
-- Perguntas frequentes com elementos nativos de expansão.
-- Conteúdo principal visível mesmo sem JavaScript.
-
-O GitHub não executa CSS e JavaScript arbitrários no README. Por isso, a documentação usa Markdown e uma capa SVG estática; as animações e interações estão na página HTML.
-
-## Escopo desta entrega
-
-Esta é uma apresentação institucional da proposta. A interface é conceitual, os módulos descritos estão previstos e a página não processa documentos nem implementa o sistema de compras públicas. Não foram adicionados contatos, métricas de impacto, integrações concluídas ou disponibilidade comercial sem confirmação.
